@@ -1,0 +1,2 @@
+# AegisMove-IoT-Precision-Guided-Autonomous-Logistics-Prototype
+AegisMove IoT is a functional prototype of a Self-Navigating Industrial Transport Vehicle (AGV) engineered for smart warehouse and factory automation frameworks. Controlled by an ESP32 microcontroller utilizing dual-core processing, the system processes a high-precision PID-tuned 5-channel infrared sensor array to achieve seamless line tracking.
