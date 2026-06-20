@@ -3,7 +3,7 @@
 Welcome to the official repository for **AegisMove IoT** (SNITP v1.0). This repository houses the production-ready firmware, structural layout logic, and system architecture for an advanced, IoT-enabled Automated Guided Vehicle (AGV) prototype tailored for modern industrial warehouse environments. 
 
 This development marks the **3rd project in my summer project series**, shifting focus from basic hobbyist robotics to structural, dual-core firmware design, precision movement controls, and hazard mitigation logic.
-![Alternative Text](.png)
+![Alternative Text](PGALR.png)
 
 ---
 
@@ -33,6 +33,14 @@ AegisMove IoT is a functional prototype of a Self-Navigating Industrial Transpor
 * **Industrial Safety Interruption:** An ultrasonic module tracks front-facing range clearances. If an obstacle breaks the `SAFETY_STOP_DISTANCE_CM` threshold, a fail-safe function instantly zeroes the motor PWM registers and flushes the PID error matrices to prevent sudden acceleration spikes when the path clears.
 
 ---
+## Images 
+![Alternative Text](ALPL.png)
+![Alternative Text](ALPT.png)
+
+## Block Diagram 
+![Alternative Text](blockdiagram.png)
+
+
 
 ## 🔧 Component Configuration Map
 
