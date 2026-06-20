@@ -3,6 +3,7 @@
 Welcome to the official repository for **AegisMove IoT** (SNITP v1.0). This repository houses the production-ready firmware, structural layout logic, and system architecture for an advanced, IoT-enabled Automated Guided Vehicle (AGV) prototype tailored for modern industrial warehouse environments. 
 
 This development marks the **3rd project in my summer project series**, shifting focus from basic hobbyist robotics to structural, dual-core firmware design, precision movement controls, and hazard mitigation logic.
+![Alternative Text](.png)
 
 ---
 
